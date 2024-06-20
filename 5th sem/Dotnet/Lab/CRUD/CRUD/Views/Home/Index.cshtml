@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+
+    @using (Html.BeginForm("Redirect", "Home", FormMethod.Post))
+    {
+        <label for="userName">Enter your name:</label>
+        <input type="text" id="userName" name="userName" required />
+        <br/>
+        <br />
+        <input type="submit" value="Log-in" />
+    }
+
+
+</div>

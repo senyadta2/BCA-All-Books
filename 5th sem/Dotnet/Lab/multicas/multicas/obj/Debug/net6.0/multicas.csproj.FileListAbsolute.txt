@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\multicas\multicas\bin\Debug\net6.0\multicas.exe
+C:\Users\DELL\source\repos\multicas\multicas\bin\Debug\net6.0\multicas.deps.json
+C:\Users\DELL\source\repos\multicas\multicas\bin\Debug\net6.0\multicas.runtimeconfig.json
+C:\Users\DELL\source\repos\multicas\multicas\bin\Debug\net6.0\multicas.dll
+C:\Users\DELL\source\repos\multicas\multicas\bin\Debug\net6.0\multicas.pdb
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.AssemblyInfo.cs
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.dll
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\refint\multicas.dll
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.pdb
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\multicas.genruntimeconfig.cache
+C:\Users\DELL\source\repos\multicas\multicas\obj\Debug\net6.0\ref\multicas.dll

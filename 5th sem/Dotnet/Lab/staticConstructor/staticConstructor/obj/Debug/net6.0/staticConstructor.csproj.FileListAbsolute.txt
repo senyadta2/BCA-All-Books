@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\bin\Debug\net6.0\staticConstructor.exe
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\bin\Debug\net6.0\staticConstructor.deps.json
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\bin\Debug\net6.0\staticConstructor.runtimeconfig.json
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\bin\Debug\net6.0\staticConstructor.dll
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\bin\Debug\net6.0\staticConstructor.pdb
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.AssemblyInfo.cs
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.dll
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\refint\staticConstructor.dll
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.pdb
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\staticConstructor.genruntimeconfig.cache
+C:\Users\DELL\source\repos\staticConstructor\staticConstructor\obj\Debug\net6.0\ref\staticConstructor.dll

@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <graphics.h>
+#include <math.h>
+
+void main() {
+    int x, y, x1, y1, i;
+    float m, dx, dy;
+    int gd = DETECT, gm;
+    initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
+
+    printf("Enter starting point: ");
+    scanf("%d %d", &x, &y);
+
+    printf("Enter the coordinate of End point: ");
+    scanf("%d %d", &x1, &y1);
+
+    dx = abs(x1 - x);
+    dy = abs(y1 - y);
+    m = dy / dx;
+
+    if (m > 1.0) {
+        while (y <= y1) {
+            putpixel(x, y, RED);
+            x = x + (1 / m);
+            y = y + 1.0;
+        }
+    } else {
+        while (x <= x1) {
+            putpixel(x, y, RED);
+            y = y + m;
+            x = x + 1.0;
+        }
+    }
+
+    outtextxy(300, 250, "DDA Output");
+    getch();
+    closegraph();
+}

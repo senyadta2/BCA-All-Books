@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\bin\Debug\net6.0\binaryOverloading.exe
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\bin\Debug\net6.0\binaryOverloading.deps.json
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\bin\Debug\net6.0\binaryOverloading.runtimeconfig.json
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\bin\Debug\net6.0\binaryOverloading.dll
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\bin\Debug\net6.0\binaryOverloading.pdb
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.AssemblyInfo.cs
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.dll
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\refint\binaryOverloading.dll
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.pdb
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\binaryOverloading.genruntimeconfig.cache
+C:\Users\DELL\source\repos\binaryOverloading\binaryOverloading\obj\Debug\net6.0\ref\binaryOverloading.dll

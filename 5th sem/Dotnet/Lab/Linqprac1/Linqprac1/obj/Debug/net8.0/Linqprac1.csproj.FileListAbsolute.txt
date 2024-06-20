@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\bin\Debug\net8.0\Linqprac1.exe
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\bin\Debug\net8.0\Linqprac1.deps.json
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\bin\Debug\net8.0\Linqprac1.runtimeconfig.json
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\bin\Debug\net8.0\Linqprac1.dll
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\bin\Debug\net8.0\Linqprac1.pdb
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.dll
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\refint\Linqprac1.dll
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.pdb
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\Linqprac1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Linqprac1\Linqprac1\obj\Debug\net8.0\ref\Linqprac1.dll

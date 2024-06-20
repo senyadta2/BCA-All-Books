@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.AssemblyInfo.cs
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\bin\Debug\net6.0\polymorphisumDynamicBinding.exe
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\bin\Debug\net6.0\polymorphisumDynamicBinding.deps.json
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\bin\Debug\net6.0\polymorphisumDynamicBinding.runtimeconfig.json
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\bin\Debug\net6.0\polymorphisumDynamicBinding.dll
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\bin\Debug\net6.0\polymorphisumDynamicBinding.pdb
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.dll
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\refint\polymorphisumDynamicBinding.dll
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.pdb
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\polymorphisumDynamicBinding.genruntimeconfig.cache
+C:\Users\DELL\source\repos\polymorphisumDynamicBinding\polymorphisumDynamicBinding\obj\Debug\net6.0\ref\polymorphisumDynamicBinding.dll
