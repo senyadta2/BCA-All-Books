@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="form" name="form" method="post" action="process.php">
+        <table>
+            <tr>
+                <td><label for="Name">Name</label></td>
+                <td><input type="text" id="name" name="name" ></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="text" id="email" name="email" ></td>
+            </tr>
+            <tr>
+                <td><label>Gender</label></td>
+                <td>
+                    <input type="radio" id="male" name="gender" value="male" >
+                    <label for="male">Male</label>
+                    <input type="radio" id="female" name="gender" value="female" >
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="address">Address</label></td>
+                <td><input type="text" id="address" name="address" ></td>
+            </tr>
+            <tr>
+                <td><label>Hobbies</label></td>
+                <td>
+                    <fieldset>
+                        <input type="checkbox" id="reading" name="hobbies[]" value="reading" >
+                        <label for="reading">Reading</label><br><br>
+                        <input type="checkbox" id="hiking" name="hobbies[]" value="hiking" >
+                        <label for="hiking">Hiking</label>
+                        <input type="checkbox" id="gaming" name="hobbies[]" value="gaming" >
+                        <label for="gaming">Gaming</label>
+                        <input type="checkbox" id="dancing" name="hobbies[]" value="dancing" >
+                        <label for="dancing">Dancing</label>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+              
+                <td><input type="submit" value="Register"></td>
+            </tr>
+        </table>
+        <span style="color:red">
+            <?php
+            if (isset($_GET['msg'])) {
+                echo $_GET['msg'];
+            }
+            ?>
+</span>
+    </form>
+    <script>
+      let form = document.querySelector("#form");
+       form.addEventListener("submit",()=>{
+        
+        form.submit();
+        return;
+    let name=document.querySelector("#name").value;
+    let email=document.querySelector("#email").value;
+    let gender=document.querySelector("input[name='gender']:checked").value;
+    let address=document.querySelector("#address").value;
+    let hobbies=document.querySelectorAll("input[name='hobbies']:checked");
+    if(name===""||email===""||gender===""||address===""||hobbies.length===0){
+        alert("refill the form");
+        return
+    }
+    let selectedHobbies=[];
+    hobbies.forEach(hobby=>{
+        selectedHobbies.push(hobby.value);
+    });
+    alert("Name: " + name + "\nEmail: " + email + "\nGender: " + gender + "\nAddress: " + address + "\nHobbies: " + selectedHobbies.join(", "));
+})
+        </script>
+        </body>
+        </html>
